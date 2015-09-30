@@ -1,0 +1,21 @@
+body{
+    font-size: 18px;
+    background-color: #f6f6f6;
+    border-top: 5px solid #222222;
+    border-bottom: 5px solid #222222;
+
+}
+
+nav {
+	text-align:center; font-weight: bold; font-size: 18;
+}
+
+h1 {
+	text-align: center;
+}
+
+img{
+	float: right;
+    margin: 0 0 10px 10px;
+    border: 1px solid black;
+}
